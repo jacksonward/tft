@@ -1,0 +1,7 @@
+path: tft/
+train: 'train/images'
+val: 'val/images'
+ 
+# class names
+names: 
+  0: 'Cassiopeia'
